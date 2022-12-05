@@ -28,4 +28,4 @@ gghaslam@gmail.com
 ## Questions
 ## License
 
-link for video of README-Generator.. file:///Users/jacobhaslam/Downloads/Untitled_%20Dec%205,%202022%204_13%20PM.webm
+
